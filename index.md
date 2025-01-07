@@ -16,3 +16,8 @@ Image of Goku ![goku](https://github.com/user-attachments/assets/2ceeb626-fa97-4
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
